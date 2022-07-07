@@ -1,3 +1,3 @@
 # Speech-Detection-App
 
-![image](https://user-images.githubusercontent.com/61896414/177661644-5b4c406a-79b4-48f1-9e34-dc8476b4786b.png)
+![image](https://user-images.githubusercontent.com/61896414/177663510-6ff0881a-2958-40e5-a697-7c3faeb9d8cf.png)
